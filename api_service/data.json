@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "login": "login",
+            "password": 123
+        },
+        {
+            "login": "user",
+            "password": 123
+        },
+        {
+            "login": "profile",
+            "password": 123
+        },
+        {
+            "login": "account",
+            "password": 123
+        },
+        {
+            "login": "admin",
+            "password": 123456
+        }
+    ]
+}
